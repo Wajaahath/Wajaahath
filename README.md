@@ -20,6 +20,7 @@ Hello! I'm a passionate and dedicated Software Engineer in training, currently c
 📫 Let’s Connect
 - Reach me at: [mwajaahath@gmail.com]
 - Check out my work on GitHub!
+
   🌟 Always open to feedback, collaboration, or just a friendly tech chat.
 
 <!--
