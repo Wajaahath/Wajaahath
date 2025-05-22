@@ -1,27 +1,52 @@
-## About Me 👋
+## 👋 About Me
 
-Hello! I'm a passionate and dedicated Software Engineer in training, currently completed a rigorous bootcamp to sharpen my programming and problem-solving skills. My journey into tech is fueled by a love for creating efficient, clean, and user-focused solutions.
+Hello! I'm **Mohammed Wajaahath Yasin**, a driven and adaptable Junior Software Engineer with a strong foundation in Python, SQL, and cloud-native backend development. I recently completed the Elixirr AI Academy and a rigorous HyperionDev bootcamp, where I built real-world software solutions using cutting-edge tools like AWS, LangChain, and vector databases.
 
-🔧 Technologies & Skills
-- Programming Languages: Python, SQL/SQLite
-- Tools: Git/GitHub, Version Control
-- Development: Backend Logic, Data Management
+I thrive on building clean, efficient, and scalable backend systems that solve real problems. I bring a collaborative mindset and technical curiosity to every project I work on.
 
-🚀 What I’m Working On
-- Building projects that solve real-world problems with simplicity and elegance.
-- Expanding my skills into full-stack development and exploring frameworks like Django or Flask.
-- Collaborating with other developers to grow and learn from shared experiences.
+---
 
-🌱 Current Goals
-- Deepen my knowledge in database management and data visualization.
-- Master industry best practices for clean and maintainable code.
-- Contribute to open-source projects and give back to the tech community.
+## 💻 Technical Skills
 
-📫 Let’s Connect
-- Reach me at: [mwajaahath@gmail.com]
-- Check out my work on GitHub!
+- **Languages & Tools:** Python, SQL/SQLite, Bash, Git, GitHub, Streamlit  
+- **Databases:** DynamoDB, SQLite, ChromaDB, OpenSearch, Athena  
+- **Cloud & DevOps:** AWS (Lambda, S3, Glue, Athena, Bedrock, SNS), Amazon Titan Embeddings  
+- **AI & ML:** Word2Vec, Gensim, t-SNE, KMeans, LangChain, Claude 3  
+- **Other:** REST APIs, Sphinx Documentation, Data Pipelines, Vector Search
 
-  🌟 Always open to feedback, collaboration, or just a friendly tech chat.
+---
+
+## 🚀 What I’ve Built
+
+- 🎵 **Music Recommendation System** – Built with AWS Lambda, DynamoDB, Athena, and LastFM API to provide personalized music suggestions.
+- 🧠 **AI-Powered Chatbot** – Developed a case study assistant using LangChain, ChromaDB, and Amazon Titan embeddings for semantic search and summarization.
+- 💰 **Expense Tracker** – A Python & SQLite app to manage income, expenses, and financial goals.
+- 📚 **Bookstore Management System** – SQL-backed inventory application with CRUD operations.
+- 📈 **Word2Vec IMDB NLP** – Trained CBOW/Skip-Gram models for sentiment analysis and performed t-SNE and clustering on embeddings.
+
+> 📂 More projects on GitHub: [github.com/Wajaahath](https://github.com/Wajaahath)
+
+---
+
+## 🌱 Goals & Learning Path
+
+- Advance expertise in backend engineering, data pipelines, and distributed systems.
+- Continue applying AI tools (like LangChain and Claude) for scalable, intelligent applications.
+- Contribute to open-source projects that align with backend and AI innovation.
+- Explore fast-growing technologies like vector databases and semantic search.
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: mwajaahath@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/mohammed-wajaahath-y-442291166](https://www.linkedin.com/in/mohammed-wajaahath-y-442291166)  
+- 🔗 GitHub: [github.com/Wajaahath](https://github.com/Wajaahath)
+
+---
+
+🛠️ Always open to collaborations, feedback, and exciting tech discussions!
+
 
 <!--
 **Wajaahath/Wajaahath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
